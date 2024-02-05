@@ -1,0 +1,6 @@
+[submodule "wallets"]
+	path = wallets
+	url = https://github.com/jinwoo2361/spring-devops-wallets.git
+[submodule "spring-devops-wallets"]
+	path = spring-devops-wallets
+	url = https://github.com/jinwoo2361/spring-devops-wallets.git
